@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="157692eb-9186-4b36-8da9-5158dcca8e0a" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MinesweeperBotEyes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbot8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbotflag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/defaultSkin/minesweeperbotunknown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/unknown.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O49vLBaV2Cw48V6WrpM9tCTFl2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/fearl/Downloads/opencv-4.7.0/opencv-4.7.0/modules/java/android_sdk",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MinesweeperBotEyes">
+    <configuration name="ColoredObjectTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColoredObjectTrack" />
+      <module name="MinesweeperBot.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinesweeperBotEyes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MinesweeperBotEyes" />
+      <module name="MinesweeperBot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TemplateMatching" />
+      <module name="MinesweeperBot.main" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\fearl\Documents\MinesweeperBot\src\main\resources\image.png C:\Users\fearl\Documents\MinesweeperBot\src\main\resources\minesweeperbot1.png" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ColoredObjectTrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ColoredObjectTrack" />
+      <module name="MinesweeperBot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinesweeperBot" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinesweeperBotEyes" />
+        <item itemvalue="Gradle.MinesweeperBot" />
+        <item itemvalue="Application.TemplateMatching" />
+        <item itemvalue="Application.org.example.ColoredObjectTrack" />
+        <item itemvalue="Application.ColoredObjectTrack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="157692eb-9186-4b36-8da9-5158dcca8e0a" name="Changes" comment="" />
+      <created>1680809222892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680809222892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MinesweeperBot$TemplateMatching.ic" NAME="TemplateMatching Coverage Results" MODIFIED="1680883691873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+  </component>
+</project>
