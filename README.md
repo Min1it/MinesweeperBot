@@ -1,1 +1,1 @@
-<h1>Not for human consumption (it's really bad code)</h1>
+<h1>Not for human consumption (I wrote this in HS)</h1>
