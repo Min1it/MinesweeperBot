@@ -1,6 +1,6 @@
 <h1>Not for human consumption (I wrote this in HS)</h1>
 
-Demonstration video: 
+Demonstration video (Epilepsy warning! yes really)
 
 
 
